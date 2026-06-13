@@ -1,5 +1,7 @@
 # 地球循環システム再生計画
 
+**言語 / Language:** 日本語 | [English Version](README.md)
+
 ## Earth Circulation System Regeneration Plan
 
 **自然法則に基づく統合環境再生技術**
@@ -481,4 +483,3 @@ CO₂削減は重要であるが、それだけでは地球の失われた循環
 #オープン発明
 #OpenInvention
 #CCBYSA4
-
